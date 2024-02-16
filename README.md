@@ -1,12 +1,12 @@
 # 👋 Hello there! I'm Shreyas Jayaprakash
 
-I'm a passionate computer science student and web enthusiast, dedicated to crafting beautiful and intuitive websites with a focus on user experience (UX) design.
+I'm a passionate computer science student and software enthusiast, dedicated to crafting visually stunning websites with exceptional user experience (UX) and user interface (UI) design.
 
 ## 🌱 About Me
 
-- 💻 Currently exploring various technologies and honing my skills in web development, Python, and project management.
-- 🚀 Always seeking new challenges and opportunities for growth.
-- 🎨 Love to combine creativity with technology to build innovative solutions.
+- 💻 Currently exploring various technologies and honing my skills in Full Stack Development and Project Management.
+- 🚀 Always seeking new challenges and opportunities for growth in the world of software development.
+- 🎨 Love to combine creativity with technology to build innovative solutions that captivate and engage users.
 
 ## 📫 Let's Connect
 
