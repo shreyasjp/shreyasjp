@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @shreyasjp
-- 👀 I’m interested in machine learning, artificial intelligence, and natural language processing.
-- 🌱 I’m currently learning about deep learning and transformers.
-- 💞️ I’m looking to collaborate on open source projects related to machine learning and AI.
-- 📫 How to reach me shreyasjayaprakashcr7@gmail.com
+👋 Hello there! I'm Shreyas Jayaprakash, a passionate computer science student and web enthusiast.
 
-<!---
-shreyasjp/shreyasjp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎨 I love crafting beautiful and intuitive websites, with a focus on user experience (UX) design.
+
+💻 Currently exploring various technologies and honing my skills in web development, Python, and project management.
+
+🌱 Always learning and seeking new challenges. Let's connect and collaborate on exciting projects!
+
+📫 Feel free to reach out to me via email at shreyasjayaprakashcr7@gmail.com or connect with me on LinkedIn!
