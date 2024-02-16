@@ -12,4 +12,4 @@ I'm a passionate computer science student and software enthusiast, dedicated to 
 
 - 📧 Email: shreyasjayaprakashcr7@gmail.com
 - 💼 LinkedIn: [Shreyas Jayaprakash](https://www.linkedin.com/in/shreyas-jayaprakash-620838286/)
-- 🐦 Twitter: [@shreyasjp](https://twitter.com/shreyasjp_07)
+- 🐦 Twitter: [@shreyasjp_07](https://twitter.com/shreyasjp_07)
