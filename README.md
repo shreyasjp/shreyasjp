@@ -1,9 +1,15 @@
-👋 Hello there! I'm Shreyas Jayaprakash, a passionate computer science student and web enthusiast.
+# 👋 Hello there! I'm Shreyas Jayaprakash
 
-🎨 I love crafting beautiful and intuitive websites, with a focus on user experience (UX) design.
+I'm a passionate computer science student and web enthusiast, dedicated to crafting beautiful and intuitive websites with a focus on user experience (UX) design.
 
-💻 Currently exploring various technologies and honing my skills in web development, Python, and project management.
+## 🌱 About Me
 
-🌱 Always learning and seeking new challenges. Let's connect and collaborate on exciting projects!
+- 💻 Currently exploring various technologies and honing my skills in web development, Python, and project management.
+- 🚀 Always seeking new challenges and opportunities for growth.
+- 🎨 Love to combine creativity with technology to build innovative solutions.
 
-📫 Feel free to reach out to me via email at shreyasjayaprakashcr7@gmail.com or connect with me on LinkedIn!
+## 📫 Let's Connect
+
+- 📧 Email: shreyasjayaprakashcr7@gmail.com
+- 💼 LinkedIn: [Shreyas Jayaprakash](https://www.linkedin.com/in/shreyas-jayaprakash-620838286/)
+- 🐦 Twitter: [@shreyasjp](https://twitter.com/shreyasjp_07)
